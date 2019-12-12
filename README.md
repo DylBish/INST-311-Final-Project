@@ -28,7 +28,7 @@ output which team won the variable/statistical faceoff. Simultaneously, the rand
 match. We understand that this can be hard to grasp to the untrained user, so we added somewhat of a moc run into the code using comments
 which will allow a user to get the gist of the program if there is any confusion.
 
-Simply follow the automated promts, and have fun!
+Simply follow the automated promts, and have fun! You never knwo who's going to win the next match!
 
 
 
