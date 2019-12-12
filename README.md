@@ -25,8 +25,8 @@ The user will be asked to input two NFL teams that they want to go head to head 
 case sensitive when spelling their desired teams. Once the user inputs both desired teams into the program, the program will run and 
 output which team won the variable/statistical faceoff. Simultaneously, the randomizer will output, you guessed it, a random number between
 1-11 (We have 11 total statistical variables in the CSV file for each NFL team). This random number will decide which team wins the overall
-match. We understand that this can be hard to grasp to the untrained user, so we added somewhat of a moc run into the code using comments
-which will allow a user to get the gist of the program if there is any confusion.
+match. We understand that this can be hard to grasp to the untrained user, so we added somewhat of a moc run into the code using both 
+comments/doc string swhich will allow a user to get the gist of the program if there is any confusion.
 
 Simply follow the automated promts, and have fun! You never know who's going to win the next match!
 
