@@ -3,7 +3,7 @@
 What our program does:
 
 For our project, we created an NFL Match Simulator.
-We populated our own CSV file (as shown in GitHub) with statistics from every NFL team consisting of varibales such as wins/losses/ties, 
+We populated our own CSV file (file viewable from repository home page) with statistics from every NFL team consisting of varibales such as wins/losses/ties, 
 passing yards per game, rushing yards per game, total points earned per game, total points concieded per game, sacks per game, 
 interceptions per game, total touchdowns per game, safetys per game, and total field goals per game. We opted out of using an 
 already established NFL CSV file due to it having information that we just did not find neccessary for this project. 
